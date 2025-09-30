@@ -19,13 +19,11 @@ O principal objetivo deste projeto foi analisar os dados de mais de 100.000 pedi
 ### 1. Top 10 Categorias de Produtos
 A análise revelou que as categorias relacionadas a casa e bem-estar dominam as vendas.
 
-*(Aqui você vai colocar a imagem do seu gráfico de categorias!)*
 ![Gráfico de Categorias de Produtos](produtos_mais_vendidos.png)
 
 ### 2. Distribuição de Clientes por Estado
 A grande maioria dos clientes está concentrada na região Sudeste, com São Paulo liderando de forma expressiva.
 
-*(Aqui você vai colocar a imagem do seu gráfico de estados!)*
 ![Gráfico de Clientes por Estado](estados_com_mais_clientes.png)
 
 ### 3. Ticket Médio por Pedido
